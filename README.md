@@ -21,7 +21,7 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avijuneja2007&show_icons=true&locale=en&layout=compact" alt="avijuneja2007" /></p>
-<br>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avijuneja2007&show_icons=true&locale=en" alt="avijuneja2007" /></p>
-<br>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avijuneja2007&" alt="avijuneja2007" /></p>
